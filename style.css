@@ -1,0 +1,21 @@
+Body {
+  background:
+    linear-gradient(to top, rgb(81, 255, 0), rgb(0, 195, 255),rgb(255, 0, 0),rgb(255, 0, 255),rgb(255, 255, 0));
+    
+    font-family: Arial, sans-serif;
+    
+}
+
+.screen {
+  background-blend-mode: screen;
+}
+
+.overlay {
+  background-blend-mode: overlay;
+}
+
+.difference {
+  background-blend-mode: difference;
+}
+
+

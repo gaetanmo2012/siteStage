@@ -1,0 +1,17 @@
+div {
+  background:
+    linear-gradient(to top, red, blue),
+    linear-gradient(to right, #5500ff, #00ff55);
+}
+
+.screen {
+  background-blend-mode: screen;
+}
+
+.overlay {
+  background-blend-mode: overlay;
+}
+
+.difference {
+  background-blend-mode: difference;
+}
